@@ -1,2 +1,5 @@
 # ColorSelector
-ColorSelector is a custom view that has features of a color selector. 
+
+ColorSelector is library that providers developers with a compound custom view(**ColorSelector View**) as shown below. 
+
+![]()
