@@ -17,6 +17,8 @@ You can use the ColorSelector in your layout xml file once the dependencies are 
 #### Using ColorSelector in Your Layout Files
 ![](Images/xml_colorselectorview.png)
 
+If view is not displayed, rebuild your project and that should solve your problem.
+
 
 Finally, the image below guides you on how to implement the listeners for the buttons(**right arrow**, **left arrow**, **checkbox**) in the ColorSelector View
 
